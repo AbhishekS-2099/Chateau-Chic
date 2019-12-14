@@ -1,4 +1,4 @@
-# Chateau Chic
+# Chapeau Chic
 
 Basically me trying to design and develop an app, following a design tutorial series on YouTube.
 
