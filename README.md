@@ -1,16 +1,11 @@
-# project_template
+# Chateau Chic
 
-A new Flutter project.
+Basically me trying to design and develop an app, following a design tutorial series on YouTube.
 
-## Getting Started
+![Present State](ReadmeAssets/InitialStage.png)
 
-This project is a starting point for a Flutter application.
+This is where I'm at right now. 2 screens. Feel free to help out or add in suggestions as issues. ; )
 
-A few resources to get you started if this is your first Flutter project:
+The prototype isn't fully functional yet. Will update once it is.
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+#### Shoutout to Dansky for awesome content on XD
